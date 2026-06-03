@@ -8,7 +8,7 @@
 
 ## Tentang Saya
 
-Saya **Yayang Ananda Setya**, mahasiswa S1 Sains Data Telkom University Bandung angkatan 2023. Saat ini sedang aktif mengembangkan kemampuan di bidang analisis data, rekayasa data, dan machine learning — sambil terus mencari peluang magang yang memungkinkan saya berkontribusi secara nyata di industri.
+Saya **Yayang Ananda Setya**, mahasiswa S1 Sains Data Telkom University Bandung angkatan 2023. Saat ini sedang aktif mengembangkan kemampuan di bidang analisis data, rekayasa data, dan machine learning sambil terus mencari peluang magang yang memungkinkan saya berkontribusi secara nyata di industri.
 
 - 📊 IPK: **3.2 / 4.0**
 - 🎯 Fokus: Data Analyst · Data Engineer · Machine Learning
@@ -81,8 +81,8 @@ python -m http.server 8000
 ## Teknologi yang Digunakan
 
 **Frontend:**
-- HTML5, CSS3, Vanilla JavaScript
-- Google Fonts — Bebas Neue, DM Mono, Plus Jakarta Sans
+- HTML, CSS, JavaScript
+- Google Fonts : Bebas Neue, DM Mono, Plus Jakarta Sans
 - Chart.js (dimuat via CDN) untuk visualisasi data berbasis grafik
 
 **Deployment:**
