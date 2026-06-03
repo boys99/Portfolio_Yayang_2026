@@ -2,7 +2,7 @@
 
 > Portofolio berbasis web yang saya bangun sebagai ruang untuk mendokumentasikan perjalanan belajar dan proyek-proyek yang telah dikerjakan selama menempuh studi S1 Sains Data.
 
-🌐 **Live Site:** [boys99.github.io/portfolio]([https://boys99.github.io/portfolio](https://boys99.github.io/Portfolio_Yayang_2026/))
+🌐 **Live Site:** (([https://boys99.github.io/Portfolio_Yayang_2026/]))
 
 ---
 
