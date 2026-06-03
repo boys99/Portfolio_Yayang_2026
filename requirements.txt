@@ -1,0 +1,48 @@
+# ============================================================
+#  Yayang Ananda Setya — Data Science Portfolio
+#  requirements.txt
+# ============================================================
+#
+#  Proyek ini merupakan portofolio berbasis static HTML,
+#  sehingga tidak memiliki dependensi Python maupun Node.js
+#  yang perlu diinstalasi secara lokal.
+#
+#  Semua komponen — mulai dari CSS, JavaScript, hingga font —
+#  sudah ter-embed langsung di dalam file index.html.
+#  File ini disertakan semata sebagai bagian dari kelengkapan
+#  dokumentasi repositori.
+#
+# ============================================================
+#  CARA MENJALANKAN
+# ============================================================
+#
+#  1. Langsung di browser
+#     Buka file index.html menggunakan browser apapun.
+#     Tidak ada langkah tambahan yang diperlukan.
+#
+#  2. Melalui local server (opsional)
+#     Jalankan perintah berikut di terminal:
+#
+#       python -m http.server 8000
+#
+#     Kemudian buka http://localhost:8000 di browser.
+#
+#  3. Via GitHub Pages (deployment)
+#     - Push repositori ini ke GitHub
+#     - Buka Settings → Pages → pilih Branch: main → Save
+#     - Portfolio dapat diakses di:
+#       https://boys99.github.io/portfolio
+#
+# ============================================================
+#  EXTERNAL RESOURCES (dimuat via CDN, tanpa instalasi)
+# ============================================================
+#
+#  - Google Fonts
+#    Bebas Neue, DM Mono, Plus Jakarta Sans
+#    https://fonts.googleapis.com
+#
+#  - Chart.js
+#    Digunakan untuk visualisasi data interaktif
+#    https://cdnjs.cloudflare.com/ajax/libs/Chart.js/
+#
+# ============================================================
